@@ -11,6 +11,7 @@
 * [2021 Styrian Grand Prix - Round 8 of 23 (June 27, 2021)](#2021-styrian-grand-prix---round-8-of-23-june-27-2021)
 * [2021 Austrian Grand Prix - Round 9 of 23 (July 4, 2021)](#2021-austrian-grand-prix---round-9-of-23-july-4-2021)
 * [2021 British Grand Prix - Round 10 of 23 (July 18, 2021)](#2021-british-grand-prix---round-10-of-23-july-18-2021)
+* [2021 Hungarian Grand Prix - Round 11 of 23 (August 1, 2021)](#2021-hungarian-grand-prix---round-11-of-23-august-1-2021)
 
 ## 2021 Bahrain Grand Prix - Round 1 of 23 (March 28, 2021)
 ![Bahrain Grand Prix](2021_01_Bahrain_Grand_Prix.png)
@@ -41,4 +42,7 @@
 
 ## 2021 British Grand Prix - Round 10 of 23 (July 18, 2021)
 ![British Grand Prix](2021_10_British_Grand_Prix.png)
+
+## 2021 Hungarian Grand Prix - Round 11 of 23 (August 1, 2021)
+![Hungarian Grand Prix](2021_11_Hungarian_Grand_Prix.png)
 
